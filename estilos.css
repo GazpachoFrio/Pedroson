@@ -61,7 +61,7 @@ button {
   }
   
   .title {
-    font-size: 3em;
+    font-size: 13em;
     margin: 0;
   }
   
@@ -71,8 +71,8 @@ button {
   }
   
   .opening {
-    font-size: 4em;
-    margin: 10;
+    font-size: 14em;
+    margin: 200;
     background-color: black;
     color: yellow;
     font-family: 'Arial', sans-serif;
