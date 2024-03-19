@@ -61,18 +61,18 @@ button {
   }
   
   .title {
-    font-size: 13em;
+    font-size: 13;
     margin: 0;
   }
   
   .subtitle {
-    font-size: 2em;
+    font-size: 14;
     margin: 0;
   }
   
   .opening {
-    font-size: 14em;
-    margin: 200;
+    font-size: 14;
+    margin: 5cm;
     background-color: black;
     color: yellow;
     font-family: 'Arial', sans-serif;
