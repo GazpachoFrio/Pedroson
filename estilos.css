@@ -53,7 +53,7 @@ button {
     position: relative;
     top: 50%;
     transform-origin: 50% 100%;
-    animation: crawl-animation 10s linear forwards;
+    animation: crawl-animation 40s linear forwards;
   }
   
   .title, .subtitle, .opening {
@@ -61,17 +61,17 @@ button {
   }
   
   .title {
-    font-size: 13;
+    font-size: 200%;
     margin: 0;
   }
   
   .subtitle {
-    font-size: 14;
+    font-size: 200%;
     margin: 0;
   }
   
   .opening {
-    font-size: 14;
+    font-size: 250%;
     margin: 5cm;
    
   }
