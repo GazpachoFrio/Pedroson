@@ -41,7 +41,7 @@ button {
 /* letras callendo */
   
   #textocallendo {
-    width: 100%;
+    width: 60%;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -53,7 +53,7 @@ button {
     position: relative;
     top: 50%;
     transform-origin: 50% 100%;
-    animation: crawl-animation 15s linear forwards;
+    animation: crawl-animation 10s linear forwards;
   }
   
   .title, .subtitle, .opening {
