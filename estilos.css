@@ -36,14 +36,9 @@ button {
   
   button:hover {
     background-color: #0056b3;
+
   }
-  /* letras callendo */
-  body {
-    background-color: black;
-    color: yellow;
-    font-family: 'Arial', sans-serif;
-    overflow: hidden;
-  }
+/* letras callendo */
   
   #textocallendo {
     width: 100%;
@@ -51,6 +46,10 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: black;
+    color: yellow;
+    font-family: 'Arial', sans-serif;
+    overflow: hidden;
   }
   
   .crawl {
@@ -88,5 +87,4 @@ button {
       transform: translateY(-300%);
     }
   }
-  
   
